@@ -1,0 +1,59 @@
+C:\Users\HP\Documents\CORREO\EmailMS\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\HP\Documents\CORREO\EmailMS\bin\Debug\net6.0\appsettings.json
+C:\Users\HP\Documents\CORREO\EmailMS\bin\Debug\net6.0\EmailMS.exe
+C:\Users\HP\Documents\CORREO\EmailMS\bin\Debug\net6.0\EmailMS.deps.json
+C:\Users\HP\Documents\CORREO\EmailMS\bin\Debug\net6.0\EmailMS.runtimeconfig.json
+C:\Users\HP\Documents\CORREO\EmailMS\bin\Debug\net6.0\EmailMS.dll
+C:\Users\HP\Documents\CORREO\EmailMS\bin\Debug\net6.0\EmailMS.pdb
+C:\Users\HP\Documents\CORREO\EmailMS\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\HP\Documents\CORREO\EmailMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\Documents\CORREO\EmailMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\Documents\CORREO\EmailMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\Documents\CORREO\EmailMS\obj\Debug\net6.0\EmailMS.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\CORREO\EmailMS\obj\Debug\net6.0\EmailMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\CORREO\EmailMS\obj\Debug\net6.0\EmailMS.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\CORREO\EmailMS\obj\Debug\net6.0\EmailMS.AssemblyInfo.cs
+C:\Users\HP\Documents\CORREO\EmailMS\obj\Debug\net6.0\EmailMS.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\CORREO\EmailMS\obj\Debug\net6.0\EmailMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Documents\CORREO\EmailMS\obj\Debug\net6.0\EmailMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Documents\CORREO\EmailMS\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\HP\Documents\CORREO\EmailMS\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\HP\Documents\CORREO\EmailMS\obj\Debug\net6.0\scopedcss\bundle\EmailMS.styles.css
+C:\Users\HP\Documents\CORREO\EmailMS\obj\Debug\net6.0\EmailMS.csproj.CopyComplete
+C:\Users\HP\Documents\CORREO\EmailMS\obj\Debug\net6.0\EmailMS.dll
+C:\Users\HP\Documents\CORREO\EmailMS\obj\Debug\net6.0\refint\EmailMS.dll
+C:\Users\HP\Documents\CORREO\EmailMS\obj\Debug\net6.0\EmailMS.pdb
+C:\Users\HP\Documents\CORREO\EmailMS\obj\Debug\net6.0\EmailMS.genruntimeconfig.cache
+C:\Users\HP\Documents\CORREO\EmailMS\obj\Debug\net6.0\ref\EmailMS.dll
+C:\Users\david\OneDrive\Documents\BACKUP_SATIAFQ\DESKTOP_SATI_AFQ\Desktop\EmailMS\EmailMS - Copy\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\david\OneDrive\Documents\BACKUP_SATIAFQ\DESKTOP_SATI_AFQ\Desktop\EmailMS\EmailMS - Copy\bin\Debug\net6.0\appsettings.json
+C:\Users\david\OneDrive\Documents\BACKUP_SATIAFQ\DESKTOP_SATI_AFQ\Desktop\EmailMS\EmailMS - Copy\bin\Debug\net6.0\EmailMS.exe
+C:\Users\david\OneDrive\Documents\BACKUP_SATIAFQ\DESKTOP_SATI_AFQ\Desktop\EmailMS\EmailMS - Copy\bin\Debug\net6.0\EmailMS.deps.json
+C:\Users\david\OneDrive\Documents\BACKUP_SATIAFQ\DESKTOP_SATI_AFQ\Desktop\EmailMS\EmailMS - Copy\bin\Debug\net6.0\EmailMS.runtimeconfig.json
+C:\Users\david\OneDrive\Documents\BACKUP_SATIAFQ\DESKTOP_SATI_AFQ\Desktop\EmailMS\EmailMS - Copy\bin\Debug\net6.0\EmailMS.dll
+C:\Users\david\OneDrive\Documents\BACKUP_SATIAFQ\DESKTOP_SATI_AFQ\Desktop\EmailMS\EmailMS - Copy\bin\Debug\net6.0\EmailMS.pdb
+C:\Users\david\OneDrive\Documents\BACKUP_SATIAFQ\DESKTOP_SATI_AFQ\Desktop\EmailMS\EmailMS - Copy\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\david\OneDrive\Documents\BACKUP_SATIAFQ\DESKTOP_SATI_AFQ\Desktop\EmailMS\EmailMS - Copy\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\david\OneDrive\Documents\BACKUP_SATIAFQ\DESKTOP_SATI_AFQ\Desktop\EmailMS\EmailMS - Copy\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\david\OneDrive\Documents\BACKUP_SATIAFQ\DESKTOP_SATI_AFQ\Desktop\EmailMS\EmailMS - Copy\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\david\OneDrive\Documents\BACKUP_SATIAFQ\DESKTOP_SATI_AFQ\Desktop\EmailMS\EmailMS - Copy\obj\Debug\net6.0\EmailMS.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Documents\BACKUP_SATIAFQ\DESKTOP_SATI_AFQ\Desktop\EmailMS\EmailMS - Copy\obj\Debug\net6.0\EmailMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Documents\BACKUP_SATIAFQ\DESKTOP_SATI_AFQ\Desktop\EmailMS\EmailMS - Copy\obj\Debug\net6.0\EmailMS.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Documents\BACKUP_SATIAFQ\DESKTOP_SATI_AFQ\Desktop\EmailMS\EmailMS - Copy\obj\Debug\net6.0\EmailMS.AssemblyInfo.cs
+C:\Users\david\OneDrive\Documents\BACKUP_SATIAFQ\DESKTOP_SATI_AFQ\Desktop\EmailMS\EmailMS - Copy\obj\Debug\net6.0\EmailMS.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Documents\BACKUP_SATIAFQ\DESKTOP_SATI_AFQ\Desktop\EmailMS\EmailMS - Copy\obj\Debug\net6.0\EmailMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\david\OneDrive\Documents\BACKUP_SATIAFQ\DESKTOP_SATI_AFQ\Desktop\EmailMS\EmailMS - Copy\obj\Debug\net6.0\EmailMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\david\OneDrive\Documents\BACKUP_SATIAFQ\DESKTOP_SATI_AFQ\Desktop\EmailMS\EmailMS - Copy\obj\Debug\net6.0\staticwebassets\msbuild.EmailMS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\david\OneDrive\Documents\BACKUP_SATIAFQ\DESKTOP_SATI_AFQ\Desktop\EmailMS\EmailMS - Copy\obj\Debug\net6.0\staticwebassets\msbuild.build.EmailMS.props
+C:\Users\david\OneDrive\Documents\BACKUP_SATIAFQ\DESKTOP_SATI_AFQ\Desktop\EmailMS\EmailMS - Copy\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EmailMS.props
+C:\Users\david\OneDrive\Documents\BACKUP_SATIAFQ\DESKTOP_SATI_AFQ\Desktop\EmailMS\EmailMS - Copy\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EmailMS.props
+C:\Users\david\OneDrive\Documents\BACKUP_SATIAFQ\DESKTOP_SATI_AFQ\Desktop\EmailMS\EmailMS - Copy\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\david\OneDrive\Documents\BACKUP_SATIAFQ\DESKTOP_SATI_AFQ\Desktop\EmailMS\EmailMS - Copy\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\david\OneDrive\Documents\BACKUP_SATIAFQ\DESKTOP_SATI_AFQ\Desktop\EmailMS\EmailMS - Copy\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\david\OneDrive\Documents\BACKUP_SATIAFQ\DESKTOP_SATI_AFQ\Desktop\EmailMS\EmailMS - Copy\obj\Debug\net6.0\scopedcss\bundle\EmailMS.styles.css
+C:\Users\david\OneDrive\Documents\BACKUP_SATIAFQ\DESKTOP_SATI_AFQ\Desktop\EmailMS\EmailMS - Copy\obj\Debug\net6.0\EmailMS.csproj.CopyComplete
+C:\Users\david\OneDrive\Documents\BACKUP_SATIAFQ\DESKTOP_SATI_AFQ\Desktop\EmailMS\EmailMS - Copy\obj\Debug\net6.0\EmailMS.dll
+C:\Users\david\OneDrive\Documents\BACKUP_SATIAFQ\DESKTOP_SATI_AFQ\Desktop\EmailMS\EmailMS - Copy\obj\Debug\net6.0\refint\EmailMS.dll
+C:\Users\david\OneDrive\Documents\BACKUP_SATIAFQ\DESKTOP_SATI_AFQ\Desktop\EmailMS\EmailMS - Copy\obj\Debug\net6.0\EmailMS.pdb
+C:\Users\david\OneDrive\Documents\BACKUP_SATIAFQ\DESKTOP_SATI_AFQ\Desktop\EmailMS\EmailMS - Copy\obj\Debug\net6.0\EmailMS.genruntimeconfig.cache
+C:\Users\david\OneDrive\Documents\BACKUP_SATIAFQ\DESKTOP_SATI_AFQ\Desktop\EmailMS\EmailMS - Copy\obj\Debug\net6.0\ref\EmailMS.dll
